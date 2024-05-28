@@ -57,11 +57,11 @@ This dataset, provided by PwC Switzerland's Virtual Internship Program through F
 - There are only 26 female employees aged above 40, whereas there are 45 male employees in this age range.
   
 ### Recommendations:
-1. **Enhance Gender Diversity in Executive Hiring:** Implement targeted recruitment strategies to attract and hire more qualified female candidates for executive-level positions.
-2. **Address Gender Imbalance in Promotions:** Review promotion criteria for equity and introduce mentorship programs for female employees.
-3. **Support Career Growth for Females:** Create development programs specifically for female employees, focusing on leadership skills and career advancement. Establish clear career paths and provide regular feedback and support to help more females progress to senior roles.
-4. **Improve Retention Strategies for Younger Employees:** Offer career development, flexible work arrangements, and competitive benefits.
-5. **Increase Female Representation in Higher Age Groups:** Implement policies that support work-life balance, such as flexible hours and parental leave, to retain female employees as they advance in their careers.
+1. **Enhance Gender Diversity in Executive Hiring:** Implement targeted recruitment strategies to attract and hire more qualified female candidates for executive-level positions. Increase the percentage of female executive hires to 30% by the next fiscal year.
+2. **Address Gender Imbalance in Promotions:** Review promotion criteria for equity and introduce mentorship programs for female employees. Ensure that at least 40% of promotions at all levels are awarded to female employees within the next two fiscal years.
+3. **Support Career Growth for Females:** Enroll at least 50% of female employees in development programs focusing on leadership skills and career advancement within the next year. Aim for 20% of these participants to progress to senior roles within three years.
+4. **Improve Retention Strategies for Younger Employees:** Reduce turnover rates among employees aged 20-39 by 10% over the next two years by offering enhanced career development opportunities and flexible work arrangements.
+5. **Increase Female Representation in Higher Age Groups:**  Increase the retention rate of female employees aged 40+ by 15% over the next three years through the implementation of policies that support work-life balance, such as flexible hours and parental leave, to retain female employees as they advance in their careers.
 By addressing these areas, the company can foster a more inclusive and balanced workplace, enhancing overall employee satisfaction and performance.
 
 ### Dashboard:
