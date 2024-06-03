@@ -4,6 +4,9 @@
 - This project focuses on developing key performance indicators (KPIs) for new hiring, promotions, turnover, performance, executive level balance, and age group distribution. Additionally, it involves creating visualizations to track and communicate progress effectively.
 - In partnership with PwC Switzerland, our telecom client aims to enhance executive gender balance by promoting diversity and inclusion. We address practical challenges by utilizing KPIs such as gender ratios, promotions, turnover rates, and performance ratings. The ultimate goal is to create a valued and inclusive environment for all teams.
 
+### Exploring Links:
+Explore the Live Dashboard: [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U0OTljODItZGZjYS00YTUyLTg1YzMtODgyZmMzMzRjZjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ### Data Sources:
 This dataset, provided by PwC Switzerland's Virtual Internship Program through Forage, contains employee records. It includes information on various aspects such as gender, new hire FY 20, Job level after Fy20 promotion, FY 20 performance rating, promotion in FY 21, FY 20 leaver, age group , nationality, etc.
 
