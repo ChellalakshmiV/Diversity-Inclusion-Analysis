@@ -5,9 +5,11 @@
 - In partnership with PwC Switzerland, our telecom client aims to enhance executive gender balance by promoting diversity and inclusion. We address practical challenges by utilizing KPIs such as gender ratios, promotions, turnover rates, and performance ratings. The ultimate goal is to create a valued and inclusive environment for all teams.
 
 ### Exploring Links:
-Explore the Live Dashboard : [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjc0YjgzYWEtNTFlNy00ZjI5LTkwZWYtZWQ3MWEzNTZlZjgyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+View Live Dashboard : [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjc0YjgzYWEtNTFlNy00ZjI5LTkwZWYtZWQ3MWEzNTZlZjgyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Explore the Presentation video : [Presentation video](https://www.linkedin.com/posts/chellalakshmi_pwcswitzerland-pwc-internship-activity-7206914759378542592-esWz?utm_source=share&utm_medium=member_desktop)
+View Presentation video : [Presentation video](https://www.youtube.com/embed/pmzl5jX7Pcs?si=gcXw6BRGPM3bjVSF)
+
+View LinkedIn Engagement : [LinkedIn Engagement](https://www.linkedin.com/posts/chellalakshmi_pwcswitzerland-pwc-internship-activity-7206914759378542592-esWz?utm_source=share&utm_medium=member_desktop)
 
 ### Data Sources:
 This dataset, provided by PwC Switzerland's Virtual Internship Program through Forage, contains employee records. It includes information on various aspects such as gender, new hire FY 20, Job level after Fy20 promotion, FY 20 performance rating, promotion in FY 21, FY 20 leaver, age group , nationality, etc.
